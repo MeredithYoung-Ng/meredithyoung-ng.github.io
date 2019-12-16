@@ -31,6 +31,38 @@ class Body extends Component {
     });
   }
 
+  updateTileTunesPage = event => {
+    event.preventDefault();
+
+    this.setState({
+      page: this.props.page[2].index
+    });
+  }
+
+  updateDiscoBotPage = event => {
+    event.preventDefault();
+
+    this.setState({
+      page: this.props.page[3].index
+    });
+  }
+
+  updatePVDCMPage = event => {
+    event.preventDefault();
+
+    this.setState({
+      page: this.props.page[4].index
+    });
+  }
+
+  updateWiCSHistoryPage = event => {
+    event.preventDefault();
+
+    this.setState({
+      page: this.props.page[5].index
+    });
+  }
+
   renderHeader() {
     return(
       <header className="App-header">
@@ -93,29 +125,64 @@ class Body extends Component {
     );
   }
 
+  renderTileTunes() {
+    return(
+      <div className="App-body">
+        <h2>Tile Tunes</h2>
+      </div>
+    );
+  }
+
+  renderDiscoBot() {
+    return(
+      <div className="App-body">
+        <h2>Disco Bot</h2>
+      </div>
+    );
+  }
+
+  renderPVDCM() {
+    return(
+      <div className="App-body">
+        <h2>Providence Children's Museum Redesign</h2>
+      </div>
+    );
+  }
+
+  renderWiCSHistory() {
+    return(
+      <div className="App-body">
+        <h2>WiCS History Website</h2>
+      </div>
+    );
+  }
+
   renderPortfolio() {
     return(
       <div className="App-body-portfolio">
         <h2>my design philosophy: ideate, research, <i>iterate!</i></h2>
         <div className="App-body-portfolio-items">
           <div>
-            <input type="image" src={tiletunes} alt="Tile Tunes"/>
+            <input type="image" src={tiletunes} alt="Tile Tunes"
+            onClick={this.updateTileTunesPage}/>
             <h3>Tile Tunes</h3>
             <p>HCI, UI/UX, Music</p>
           </div>
           <div>
-            <input type="image" src={discobot} alt="Disco Bot"/>
+            <input type="image" src={discobot} alt="Disco Bot"
+            onClick={this.updateDiscoBotPage}/>
             <h3>Disco Bot</h3>
             <p>HRI, UI/UX, Music</p>
           </div>
           <div>
             <input type="image" src={pvdcm} alt="Providence Children's Museum
-            Redesign"/>
+            Redesign" onClick={this.updatePVDCMPage}/>
             <h3>Providence Children's Museum Redesign</h3>
             <p>UI/UX</p>
           </div>
           <div>
-            <input type="image" src={wicshistory} alt="WiCS History"/>
+            <input type="image" src={wicshistory} alt="WiCS History"
+            onClick={this.updateWiCSHistoryPage}/>
             <h3>WiCS History</h3>
             <p>UI/UX, Outreach</p>
           </div>
@@ -133,10 +200,26 @@ class Body extends Component {
       return(
         <div>{this.renderPortfolio()}</div>
       );
+    } else if (this.state.page === 2) {
+      return(
+        <div>{this.renderTileTunes()}</div>
+      );
+    } else if (this.state.page === 3) {
+      return(
+        <div>{this.renderDiscoBot()}</div>
+      );
+    } else if (this.state.page === 4) {
+      return(
+        <div>{this.renderPVDCM()}</div>
+      );
+    } else if (this.state.page === 5) {
+      return(
+        <div>{this.renderWiCSHistory()}</div>
+      );
     } else {
       return(
         <div className="App-body">
-          <p>This page does not exist.</p>
+          <p>Under construction...</p>
         </div>
       );
     }
