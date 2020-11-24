@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af859598aa5e18f2218d80131a734fae",
+    "revision": "a5d6c8b48674633cde8085dd1c1265a2",
     "url": "/index.html"
   },
   {
-    "revision": "ebbbcc48b210d75f1662",
+    "revision": "4347e32ebc3634db2357",
     "url": "/static/css/main.10864c0d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.b7a55a7c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ebbbcc48b210d75f1662",
-    "url": "/static/js/main.86a5e7e0.chunk.js"
+    "revision": "4347e32ebc3634db2357",
+    "url": "/static/js/main.ce2d4bcd.chunk.js"
   },
   {
     "revision": "ba126735810163618457",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bab8c22dac84af8cbf739382b309c37d",
     "url": "/static/media/crochetmatic.bab8c22d.jpg"
+  },
+  {
+    "revision": "41110ca17f6c576373d13866008f5f0b",
+    "url": "/static/media/cv.41110ca1.pdf"
   },
   {
     "revision": "853714a2def5ba072b0c6415b9f1b25c",
@@ -190,10 +194,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c14195939a8b80cfa39ace157f07bc8c",
     "url": "/static/media/pvdcm.c1419593.png"
-  },
-  {
-    "revision": "4409658d9f2efab00dd839321e009be6",
-    "url": "/static/media/resume.4409658d.pdf"
   },
   {
     "revision": "d7c197566cb0886b9e8c5ab2bc68db0b",

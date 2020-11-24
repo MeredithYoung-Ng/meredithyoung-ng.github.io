@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.10864c0d.chunk.css",
-    "main.js": "/static/js/main.86a5e7e0.chunk.js",
-    "main.js.map": "/static/js/main.86a5e7e0.chunk.js.map",
+    "main.js": "/static/js/main.ce2d4bcd.chunk.js",
+    "main.js.map": "/static/js/main.ce2d4bcd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3374ac37.js",
     "runtime-main.js.map": "/static/js/runtime-main.3374ac37.js.map",
     "static/js/2.b7a55a7c.chunk.js": "/static/js/2.b7a55a7c.chunk.js",
     "static/js/2.b7a55a7c.chunk.js.map": "/static/js/2.b7a55a7c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.73b199be1a3c1923272df6a89662fd54.js": "/precache-manifest.73b199be1a3c1923272df6a89662fd54.js",
+    "precache-manifest.339129c569ef7e0d13cc9dfd8b6f1853.js": "/precache-manifest.339129c569ef7e0d13cc9dfd8b6f1853.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.10864c0d.chunk.css.map": "/static/css/main.10864c0d.chunk.css.map",
     "static/js/2.b7a55a7c.chunk.js.LICENSE.txt": "/static/js/2.b7a55a7c.chunk.js.LICENSE.txt",
@@ -17,6 +17,7 @@
     "static/media/crochetmatic-blender-threecol.png": "/static/media/crochetmatic-blender-threecol.37e582b2.png",
     "static/media/crochetmatic-blender-twocol.png": "/static/media/crochetmatic-blender-twocol.5d5d1b30.png",
     "static/media/crochetmatic.jpg": "/static/media/crochetmatic.bab8c22d.jpg",
+    "static/media/cv.pdf": "/static/media/cv.41110ca1.pdf",
     "static/media/disco_bot_paper.pdf": "/static/media/disco_bot_paper.853714a2.pdf",
     "static/media/discobot-android.png": "/static/media/discobot-android.25925160.png",
     "static/media/discobot-base.png": "/static/media/discobot-base.86d54aab.png",
@@ -54,7 +55,6 @@
     "static/media/pvdcm-wireframe6.png": "/static/media/pvdcm-wireframe6.536456a8.png",
     "static/media/pvdcm-wireframe7.png": "/static/media/pvdcm-wireframe7.28ca2f09.png",
     "static/media/pvdcm.png": "/static/media/pvdcm.c1419593.png",
-    "static/media/resume.pdf": "/static/media/resume.4409658d.pdf",
     "static/media/surfacebrush-bonsai-apple.png": "/static/media/surfacebrush-bonsai-apple.d7c19756.png",
     "static/media/surfacebrush-bonsai-print.png": "/static/media/surfacebrush-bonsai-print.76fe19d9.png",
     "static/media/surfacebrush-bonsai-printable.png": "/static/media/surfacebrush-bonsai-printable.eae126ea.png",
@@ -84,6 +84,6 @@
     "static/js/runtime-main.3374ac37.js",
     "static/js/2.b7a55a7c.chunk.js",
     "static/css/main.10864c0d.chunk.css",
-    "static/js/main.86a5e7e0.chunk.js"
+    "static/js/main.ce2d4bcd.chunk.js"
   ]
 }
