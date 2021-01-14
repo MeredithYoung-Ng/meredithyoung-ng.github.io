@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c30bf61.chunk.css",
-    "main.js": "/static/js/main.456860e2.chunk.js",
-    "main.js.map": "/static/js/main.456860e2.chunk.js.map",
+    "main.css": "/static/css/main.7a64ba46.chunk.css",
+    "main.js": "/static/js/main.4f12c637.chunk.js",
+    "main.js.map": "/static/js/main.4f12c637.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fa961822.js",
     "runtime-main.js.map": "/static/js/runtime-main.fa961822.js.map",
     "static/js/2.4e1857f6.chunk.js": "/static/js/2.4e1857f6.chunk.js",
     "static/js/2.4e1857f6.chunk.js.map": "/static/js/2.4e1857f6.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.3c30bf61.chunk.css.map": "/static/css/main.3c30bf61.chunk.css.map",
+    "static/css/main.7a64ba46.chunk.css.map": "/static/css/main.7a64ba46.chunk.css.map",
     "static/js/2.4e1857f6.chunk.js.LICENSE.txt": "/static/js/2.4e1857f6.chunk.js.LICENSE.txt",
     "static/media/crochetmatic-3col.507f7cba.png": "/static/media/crochetmatic-3col.507f7cba.png",
     "static/media/crochetmatic-blender-onecol.27948e08.png": "/static/media/crochetmatic-blender-onecol.27948e08.png",
@@ -84,7 +84,7 @@
   "entrypoints": [
     "static/js/runtime-main.fa961822.js",
     "static/js/2.4e1857f6.chunk.js",
-    "static/css/main.3c30bf61.chunk.css",
-    "static/js/main.456860e2.chunk.js"
+    "static/css/main.7a64ba46.chunk.css",
+    "static/js/main.4f12c637.chunk.js"
   ]
 }
