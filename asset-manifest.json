@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cc188876.css",
-    "main.js": "/static/js/main.2dbb209a.js",
+    "main.js": "/static/js/main.d5e97e1f.js",
     "static/media/tiletunes-prototype1.png": "/static/media/tiletunes-prototype1.f2f1de520677f7a456df.png",
     "static/media/portalware-components.png": "/static/media/portalware-components.3e12325d3771d688417f.png",
     "static/media/wicshistory-adobexd.jpg": "/static/media/wicshistory-adobexd.3ef24a7393c5c9c5f337.jpg",
@@ -73,10 +73,10 @@
     "static/media/discobot-beambase.png": "/static/media/discobot-beambase.8458cb87efed9657f414.png",
     "index.html": "/index.html",
     "main.cc188876.css.map": "/static/css/main.cc188876.css.map",
-    "main.2dbb209a.js.map": "/static/js/main.2dbb209a.js.map"
+    "main.d5e97e1f.js.map": "/static/js/main.d5e97e1f.js.map"
   },
   "entrypoints": [
     "static/css/main.cc188876.css",
-    "static/js/main.2dbb209a.js"
+    "static/js/main.d5e97e1f.js"
   ]
 }
